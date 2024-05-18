@@ -13,7 +13,7 @@ namespace AdminTools.Commands.Jail
     {
         public Jail() => LoadGeneratedCommands();
 
-        public override string Command { get; } = "jail";
+        public override string Command { get; } = "atjail";
 
         public override string[] Aliases { get; } = new string[] { };
 
