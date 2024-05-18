@@ -1,5 +1,6 @@
 # AdminTools
 An SCP:SL EXILED plugin that gives server owners fun commands and logging functionality for their servers
+Updated to the latest EXILED version (8.8.1) and modified to work with CedMod by changing the jail command to atjail
 
 ### Features
 ```
@@ -56,7 +57,7 @@ hbc - PlayerPermissions.Broadcasting (config_remoteadmin.txt)
 hp - PlayerPermissions.PlayersManagement (config_remoteadmin.txt)
 instantkill - at.ik
 inventory - at.inv
-jail - at.jail
+atjail - at.jail
 kick - at.kick
 kill - at.kill
 pbc - PlayerPermissions.Broadcasting (config_remoteadmin.txt)
